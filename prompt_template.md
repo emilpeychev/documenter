@@ -32,9 +32,5 @@ Instructions:
 - Provide example usage.
 - Make it easy to understand for new users.
 
-Generate the README.md content below:
-""")
-
-
 Generate the documentation below:
 """)
